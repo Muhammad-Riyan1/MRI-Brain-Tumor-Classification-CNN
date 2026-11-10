@@ -130,7 +130,7 @@ The model generates two important output files:
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/MRI-Brain-Tumor-Classification-CNN.git
+git clone https://github.com/Muhammad-Riyan1/MRI-Brain-Tumor-Classification-CNN.git
 ```
 
 Navigate to the project directory:
